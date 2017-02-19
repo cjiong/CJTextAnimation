@@ -27,7 +27,7 @@ cite {
   -moz-osx-font-smoothing: grayscale;
 }
 p {
-  font-family: Georgia;
+  font-family: PingFang SC, Georgia;
   color: #fff;
   font-size: 2.7rem;
   font-style: italic;
@@ -44,7 +44,7 @@ span.animate {
 }
 cite {
   font-family: verdana;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   color: #aaa;
   opacity: 0;
   font-style: normal;
