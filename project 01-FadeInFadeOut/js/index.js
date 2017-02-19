@@ -1,3 +1,4 @@
+'use strict';
 var words = document.getElementsByTagName('span');
 var cite = document.getElementsByTagName('cite');
 
@@ -19,13 +20,13 @@ var animate = function animate() {
 		});
 		
 		TweenLite.set(word, {
-			classname: "+=animate",
+			className: "+=animate",
 			transition: 'all ' + duration + 's ease-in ' + delay + 's'
 		});
 	}
 	
 	TweenLite.set(cite, {
-			classname: "+=animate",
+			className: "+=animate",
 			transition: 'all ' + duration + 's ease-in ' + delay + 's'
 		});
 		
