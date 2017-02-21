@@ -1,0 +1,42 @@
+* {
+	background-color: black;
+}
+
+p {
+	font-size: 10vw;
+	font-family: 'Nosifer', cursive;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 60vh;
+	vertical-align: middle;
+}
+
+#letter1: hover {
+	color: white;
+	text-shadow: 0 0 30px blue;
+}
+
+#letter2: hover {
+	color: white;
+	text-shadow: 0 0 30px red;
+}
+
+#letter3: hover {
+	color: white;
+	text-shadow: 0 0 30px lime;
+}
+
+#letter4: hover {
+	color: white;
+	text-shadow: 0 0 30px cyan;
+}
+
+#letter5: hover {
+	color: white;
+	text-shadow: 0 0 30px deepskyblue;
+}
+
+#letter6: hover {
+	color: white;
+	text-shadow: 0 0 30px snow;
+}
