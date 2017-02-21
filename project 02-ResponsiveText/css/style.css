@@ -11,32 +11,32 @@ p {
 	vertical-align: middle;
 }
 
-#letter1: hover {
+#letter1:hover {
 	color: white;
 	text-shadow: 0 0 30px blue;
 }
 
-#letter2: hover {
+#letter2:hover {
 	color: white;
 	text-shadow: 0 0 30px red;
 }
 
-#letter3: hover {
+#letter3:hover {
 	color: white;
 	text-shadow: 0 0 30px lime;
 }
 
-#letter4: hover {
+#letter4:hover {
 	color: white;
 	text-shadow: 0 0 30px cyan;
 }
 
-#letter5: hover {
+#letter5:hover {
 	color: white;
 	text-shadow: 0 0 30px deepskyblue;
 }
 
-#letter6: hover {
+#letter6:hover {
 	color: white;
 	text-shadow: 0 0 30px snow;
 }
