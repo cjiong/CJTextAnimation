@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	background-color: blue;
+}
+
+p {
+	color: #FFFFFF;
+	font-size: 1em;
+	font-weight: bold;
+	font-family: "微软雅黑";
+}
+
