@@ -11,11 +11,11 @@ body {
 	-webkit-justify-content: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	background-color: blue;
+	background-color: deepskyblue;
 }
 
 p {
-	color: #FFFFFF;
+	color: white;
 	font-size: 1em;
 	font-weight: bold;
 	font-family: "微软雅黑";
